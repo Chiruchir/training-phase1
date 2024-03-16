@@ -1,0 +1,10 @@
+#sets
+arr={"chiru",12,"IT",8074196705,"pragati"}
+print(arr)
+arr.add(123)
+print(arr)
+arr.update([23,324,"chiranjeevi",12])
+print(arr)
+arr.discard(23)
+print(arr)
+#frozenset
